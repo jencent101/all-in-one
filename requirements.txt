@@ -1,0 +1,16 @@
+tabulate
+Pillow
+win32api
+numpy
+opencv-python
+subprocess
+os
+webbrowser
+googletrans
+gtts
+speech_recognition
+playsound
+threading
+socket
+selenium
+rich

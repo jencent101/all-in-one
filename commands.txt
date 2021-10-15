@@ -1,0 +1,35 @@
+>> basic commands
+help => HELP - Done
+help --secret => HELPSECRET - Done
+exit => EXIT - Done
+calculator => CALCULATOR - Done
+calendar => CALENDAR - Done
+notepad => NOTEPAD - Done
+cmd => CMD - Done
+powershell => POWERSHELL - Done
+bash => BASH - Done
+time => TIME - Done
+goto => GOTO - Done
+leap => LEAPYEAR - Done
+makedir => MKDIR - Done
+deldir => DDIR - Done
+makeTXT => MTXT - Done
+readTXT => RTXT - Done
+addTXT => ATXT - Done
+delTXT => DTXT - Done
+pwd => PWD - Done
+clear => CLEAR - Done
+
+
+>> advance commands
+ping => PING - Done
+osk => ONSCREENKEYBOARD - Done
+ai --freefb => FREEFB - Done
+ai --messenger => MESSENGER - Done
+ai --github => GITHUB - Done
+sc -record => SCREENRECORD - Done
+con. string => BINARYCONVERTER - Done
+Chrome -mp3 => MP3 - Done
+Chrome -mp4 => MP4 - Done
+tts => TEXT2SPEECH - Done
+sts => SPEECH2SPEECH - Done
