@@ -1,4 +1,5 @@
 >> basic commands
+COMMAND | FUNCTION | STATUS
 help => HELP - Done
 help --secret => HELPSECRET - Done
 exit => EXIT - Done
