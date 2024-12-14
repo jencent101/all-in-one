@@ -25,7 +25,7 @@ print(logo)
 print('=' * 50)
 
 author = "Jencent Dizon"
-link = "https://github.com/I-am-Programmer-101"
+link = "https://github.com/yamada__101"
 print("\nAuthor: " + author + "\nLink: " + link)
 
 commands = [
